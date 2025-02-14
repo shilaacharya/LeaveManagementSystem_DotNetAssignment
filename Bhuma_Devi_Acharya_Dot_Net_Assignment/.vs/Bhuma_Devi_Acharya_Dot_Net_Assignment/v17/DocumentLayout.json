@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93AC38A8-ECA6-4E6B-ACDD-59436321EE9E}|Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment.csproj|c:\\users\\acer\\source\\repos\\bhuma_devi_acharya_dot_net_assignment\\bhuma_devi_acharya_dot_net_assignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93AC38A8-ECA6-4E6B-ACDD-59436321EE9E}|Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment.csproj|solutionrelative:bhuma_devi_acharya_dot_net_assignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AC38A8-ECA6-4E6B-ACDD-59436321EE9E}|Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment.csproj|c:\\users\\acer\\source\\repos\\bhuma_devi_acharya_dot_net_assignment\\bhuma_devi_acharya_dot_net_assignment\\controllers\\teacherleavescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AC38A8-ECA6-4E6B-ACDD-59436321EE9E}|Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment.csproj|solutionrelative:bhuma_devi_acharya_dot_net_assignment\\controllers\\teacherleavescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AC38A8-ECA6-4E6B-ACDD-59436321EE9E}|Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment.csproj|c:\\users\\acer\\source\\repos\\bhuma_devi_acharya_dot_net_assignment\\bhuma_devi_acharya_dot_net_assignment\\views\\teacherleaves\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93AC38A8-ECA6-4E6B-ACDD-59436321EE9E}|Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment.csproj|solutionrelative:bhuma_devi_acharya_dot_net_assignment\\views\\teacherleaves\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AC38A8-ECA6-4E6B-ACDD-59436321EE9E}|Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment.csproj|c:\\users\\acer\\source\\repos\\bhuma_devi_acharya_dot_net_assignment\\bhuma_devi_acharya_dot_net_assignment\\views\\teacherleaves\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93AC38A8-ECA6-4E6B-ACDD-59436321EE9E}|Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment.csproj|solutionrelative:bhuma_devi_acharya_dot_net_assignment\\views\\teacherleaves\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AC38A8-ECA6-4E6B-ACDD-59436321EE9E}|Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment.csproj|c:\\users\\acer\\source\\repos\\bhuma_devi_acharya_dot_net_assignment\\bhuma_devi_acharya_dot_net_assignment\\views\\teacherleaves\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93AC38A8-ECA6-4E6B-ACDD-59436321EE9E}|Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment.csproj|solutionrelative:bhuma_devi_acharya_dot_net_assignment\\views\\teacherleaves\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AC38A8-ECA6-4E6B-ACDD-59436321EE9E}|Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment.csproj|c:\\users\\acer\\source\\repos\\bhuma_devi_acharya_dot_net_assignment\\bhuma_devi_acharya_dot_net_assignment\\models\\teacherleave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AC38A8-ECA6-4E6B-ACDD-59436321EE9E}|Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment.csproj|solutionrelative:bhuma_devi_acharya_dot_net_assignment\\models\\teacherleave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AC38A8-ECA6-4E6B-ACDD-59436321EE9E}|Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment.csproj|c:\\users\\acer\\source\\repos\\bhuma_devi_acharya_dot_net_assignment\\bhuma_devi_acharya_dot_net_assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93AC38A8-ECA6-4E6B-ACDD-59436321EE9E}|Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment.csproj|solutionrelative:bhuma_devi_acharya_dot_net_assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AC38A8-ECA6-4E6B-ACDD-59436321EE9E}|Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment.csproj|c:\\users\\acer\\source\\repos\\bhuma_devi_acharya_dot_net_assignment\\bhuma_devi_acharya_dot_net_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AC38A8-ECA6-4E6B-ACDD-59436321EE9E}|Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment.csproj|solutionrelative:bhuma_devi_acharya_dot_net_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AC38A8-ECA6-4E6B-ACDD-59436321EE9E}|Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment.csproj|c:\\users\\acer\\source\\repos\\bhuma_devi_acharya_dot_net_assignment\\bhuma_devi_acharya_dot_net_assignment\\views\\teacherleaves\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93AC38A8-ECA6-4E6B-ACDD-59436321EE9E}|Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment.csproj|solutionrelative:bhuma_devi_acharya_dot_net_assignment\\views\\teacherleaves\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AC38A8-ECA6-4E6B-ACDD-59436321EE9E}|Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment.csproj|c:\\users\\acer\\source\\repos\\bhuma_devi_acharya_dot_net_assignment\\bhuma_devi_acharya_dot_net_assignment\\areas\\identity\\data\\bhuma_devi_acharya_dot_net_assignmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AC38A8-ECA6-4E6B-ACDD-59436321EE9E}|Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment.csproj|solutionrelative:bhuma_devi_acharya_dot_net_assignment\\areas\\identity\\data\\bhuma_devi_acharya_dot_net_assignmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AC38A8-ECA6-4E6B-ACDD-59436321EE9E}|Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment.csproj|c:\\users\\acer\\source\\repos\\bhuma_devi_acharya_dot_net_assignment\\bhuma_devi_acharya_dot_net_assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93AC38A8-ECA6-4E6B-ACDD-59436321EE9E}|Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment.csproj|solutionrelative:bhuma_devi_acharya_dot_net_assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AC38A8-ECA6-4E6B-ACDD-59436321EE9E}|Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment.csproj|c:\\users\\acer\\source\\repos\\bhuma_devi_acharya_dot_net_assignment\\bhuma_devi_acharya_dot_net_assignment\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{93AC38A8-ECA6-4E6B-ACDD-59436321EE9E}|Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment.csproj|solutionrelative:bhuma_devi_acharya_dot_net_assignment\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AC38A8-ECA6-4E6B-ACDD-59436321EE9E}|Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment.csproj|c:\\users\\acer\\source\\repos\\bhuma_devi_acharya_dot_net_assignment\\bhuma_devi_acharya_dot_net_assignment\\migrations\\20250204203617_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AC38A8-ECA6-4E6B-ACDD-59436321EE9E}|Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment.csproj|solutionrelative:bhuma_devi_acharya_dot_net_assignment\\migrations\\20250204203617_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AC38A8-ECA6-4E6B-ACDD-59436321EE9E}|Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment.csproj|c:\\users\\acer\\source\\repos\\bhuma_devi_acharya_dot_net_assignment\\bhuma_devi_acharya_dot_net_assignment\\migrations\\20250204204510_second2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AC38A8-ECA6-4E6B-ACDD-59436321EE9E}|Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment.csproj|solutionrelative:bhuma_devi_acharya_dot_net_assignment\\migrations\\20250204204510_second2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Views\\TeacherLeaves\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Bhuma_Devi_Acharya_Dot_Net_Assignment\\Views\\TeacherLeaves\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Views\\TeacherLeaves\\Edit.cshtml",
+              "RelativeToolTip": "Bhuma_Devi_Acharya_Dot_Net_Assignment\\Views\\TeacherLeaves\\Edit.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T20:59:24.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Views\\TeacherLeaves\\Create.cshtml",
+              "RelativeDocumentMoniker": "Bhuma_Devi_Acharya_Dot_Net_Assignment\\Views\\TeacherLeaves\\Create.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Views\\TeacherLeaves\\Create.cshtml",
+              "RelativeToolTip": "Bhuma_Devi_Acharya_Dot_Net_Assignment\\Views\\TeacherLeaves\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T20:55:06.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Views\\TeacherLeaves\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bhuma_Devi_Acharya_Dot_Net_Assignment\\Views\\TeacherLeaves\\Index.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Views\\TeacherLeaves\\Index.cshtml",
+              "RelativeToolTip": "Bhuma_Devi_Acharya_Dot_Net_Assignment\\Views\\TeacherLeaves\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T20:48:35.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeacherLeavesController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Controllers\\TeacherLeavesController.cs",
+              "RelativeDocumentMoniker": "Bhuma_Devi_Acharya_Dot_Net_Assignment\\Controllers\\TeacherLeavesController.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Controllers\\TeacherLeavesController.cs",
+              "RelativeToolTip": "Bhuma_Devi_Acharya_Dot_Net_Assignment\\Controllers\\TeacherLeavesController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAuwAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:46:27.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250204204510_second2.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Migrations\\20250204204510_second2.cs",
+              "RelativeDocumentMoniker": "Bhuma_Devi_Acharya_Dot_Net_Assignment\\Migrations\\20250204204510_second2.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Migrations\\20250204204510_second2.cs",
+              "RelativeToolTip": "Bhuma_Devi_Acharya_Dot_Net_Assignment\\Migrations\\20250204204510_second2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:45:10.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bhuma_Devi_Acharya_Dot_Net_Assignment\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Bhuma_Devi_Acharya_Dot_Net_Assignment\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T20:52:22.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Views\\TeacherLeaves\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Bhuma_Devi_Acharya_Dot_Net_Assignment\\Views\\TeacherLeaves\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Views\\TeacherLeaves\\Delete.cshtml",
+              "RelativeToolTip": "Bhuma_Devi_Acharya_Dot_Net_Assignment\\Views\\TeacherLeaves\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T21:04:44.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Bhuma_Devi_Acharya_Dot_Net_Assignment\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Bhuma_Devi_Acharya_Dot_Net_Assignment\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T20:35:53.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeacherLeave.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Models\\TeacherLeave.cs",
+              "RelativeDocumentMoniker": "Bhuma_Devi_Acharya_Dot_Net_Assignment\\Models\\TeacherLeave.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Models\\TeacherLeave.cs",
+              "RelativeToolTip": "Bhuma_Devi_Acharya_Dot_Net_Assignment\\Models\\TeacherLeave.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA2wBQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:42:52.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bhuma_Devi_Acharya_Dot_Net_AssignmentContext.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Areas\\Identity\\Data\\Bhuma_Devi_Acharya_Dot_Net_AssignmentContext.cs",
+              "RelativeDocumentMoniker": "Bhuma_Devi_Acharya_Dot_Net_Assignment\\Areas\\Identity\\Data\\Bhuma_Devi_Acharya_Dot_Net_AssignmentContext.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Areas\\Identity\\Data\\Bhuma_Devi_Acharya_Dot_Net_AssignmentContext.cs",
+              "RelativeToolTip": "Bhuma_Devi_Acharya_Dot_Net_Assignment\\Areas\\Identity\\Data\\Bhuma_Devi_Acharya_Dot_Net_AssignmentContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:43:53.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Bhuma_Devi_Acharya_Dot_Net_Assignment\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Program.cs",
+              "RelativeToolTip": "Bhuma_Devi_Acharya_Dot_Net_Assignment\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:37:09.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250204203617_first.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Migrations\\20250204203617_first.cs",
+              "RelativeDocumentMoniker": "Bhuma_Devi_Acharya_Dot_Net_Assignment\\Migrations\\20250204203617_first.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Migrations\\20250204203617_first.cs",
+              "RelativeToolTip": "Bhuma_Devi_Acharya_Dot_Net_Assignment\\Migrations\\20250204203617_first.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:36:17.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\appsettings.json",
+              "RelativeDocumentMoniker": "Bhuma_Devi_Acharya_Dot_Net_Assignment\\appsettings.json",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\appsettings.json",
+              "RelativeToolTip": "Bhuma_Devi_Acharya_Dot_Net_Assignment\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T20:34:49.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Bhuma_Devi_Acharya_Dot_Net_Assignment\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\Bhuma_Devi_Acharya_Dot_Net_Assignment\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Bhuma_Devi_Acharya_Dot_Net_Assignment\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-04T20:34:07.898Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

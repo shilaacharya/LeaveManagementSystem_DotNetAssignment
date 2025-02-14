@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Bhuma_Devi_Acharya_Dot_Net_Assignment.Models.TeacherLeave>
+
+@{
+    ViewData["Title"] = "TeacherLeaves";
+}
+
+<h2>TeacherLeaves</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Add New Leave</a>
+</p>
+<table id="myTable" class="display table table-striped">
+    <thead>
+        <tr>
+            <th>Teacher ID</th>
+            <th>Teacher Name</th>
+            <th>Leave Start Date</th>
+            <th>Number of Days of Leave</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var leave in Model)
+        {
+            <tr>
+                <td>@leave.Id</td>
+                <td>@leave.TeacherName</td>
+                <td>@leave.LeaveStartDate.ToString("yyyy-MM-dd")</td>
+                <td>@leave.NumberOfDays</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@leave.Id" class="btn btn-sm btn-warning">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@leave.Id" class="btn btn-sm btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Styles {
+    <link href="https://cdn.datatables.net/2.2.1/css/dataTables.dataTables.min.css" rel="stylesheet" />
+}
+
+@section Scripts {
+    <script src="https://cdn.datatables.net/2.2.1/js/dataTables.min.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            let table = new DataTable('#myTable');
+        });
+    </script>
+}

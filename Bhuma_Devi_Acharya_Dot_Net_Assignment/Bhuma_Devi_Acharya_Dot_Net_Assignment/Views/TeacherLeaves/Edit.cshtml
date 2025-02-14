@@ -1,0 +1,35 @@
+﻿@model Bhuma_Devi_Acharya_Dot_Net_Assignment.Models.TeacherLeave
+
+@{
+    ViewData["Title"] = "Edit Teacher Leave Request";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Edit" method="post">
+    <div class="form-group">
+        <input type="hidden" asp-for="Id" />
+    </div>
+    <div class="form-group">
+        <label asp-for="TeacherName" class="control-label"></label>
+        <input asp-for="TeacherName" class="form-control" />
+        <span asp-validation-for="TeacherName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="LeaveStartDate" class="control-label"></label>
+        <input asp-for="LeaveStartDate" class="form-control" type="date" />
+        <span asp-validation-for="LeaveStartDate" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="NumberOfDays" class="control-label"></label>
+        <input asp-for="NumberOfDays" class="form-control" type="number" min="1" />
+        <span asp-validation-for="NumberOfDays" class="text-danger"></span>
+    </div>
+    <div class="form-group mt-2">
+        <input type="submit" value="Save" class="btn btn-primary" />
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
